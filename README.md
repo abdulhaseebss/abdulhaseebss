@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Institute Management System](https://github.com/abdulhaseebss/Institute-Management-System)
 
-- 🌱 I’m currently learning **RactJs**
+- 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **Html, CSS, Javascript, Database**
 
