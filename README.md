@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulhaseebss" alt="abdulhaseebss" /></a> </p>
 
-- 🔭 I’m currently working on [Institute Management System](https://github.com/abdulhaseebss/Institute-Management-System)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Html, CSS, Javascript, Database**
+- 💬 Ask me about **Html, CSS, Javascript, ReactJs, NodeJs, ExpressJs, Database**
 
 - 📫 How to reach me **m.saleemhaseeb@gmail.com**
 
